@@ -1,0 +1,11 @@
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\bin\Debug\speech Generate.exe.config
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\bin\Debug\speech Generate.exe
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\bin\Debug\speech Generate.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech_Generate.Form1.resources
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech_Generate.Properties.Resources.resources
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech Generate.csproj.GenerateResource.Cache
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech Generate.exe
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech Generate.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\Interop.SpeechLib.dll
+c:\users\ankit\documents\visual studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech Generate.csproj.ResolveComReference.cache
+C:\Users\ankit\Documents\Visual Studio 2015\Projects\speech Generate\speech Generate\obj\Debug\speech Generate.csprojResolveAssemblyReference.cache
